@@ -20,5 +20,4 @@ Steps to solve this challenge:
 3. Use the sox to convert wav to raw as: **sox listen_up.wav listen_up.raw** <br>
 4. Make it executable: **chmod +x listen_up.raw** <br>
 5. Execute the executable: **./listen_up.raw** <br>
-
 ![2](https://user-images.githubusercontent.com/44412255/80645681-75106880-8a39-11ea-937a-c5e1a1d05193.JPG)<br>
